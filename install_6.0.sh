@@ -178,7 +178,7 @@ get_node_url(){
 	rm -f $tmp_file1
 	rm -f $tmp_file2
 	download_Url=$NODE_URL
-	downloads_Url=https://dempoedu.st-albertus.sch.id/soft/panel
+	downloads_Url=https://ineward.github.io/edopanel.github.io
 	echo "Download node: $download_Url";
 	echo '---------------------------------------------';
 }
